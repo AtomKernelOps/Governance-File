@@ -10,7 +10,7 @@ Kernel-44 is a proprietary AI Operating System designed to turn complex business
 - **Founder-Centric Control:** Bypassing third-party platforms for sovereign, private infrastructure.
 
 ## Governance & Identity
-- **Lead Architect:** Kilo (@AtomKernelOps)
+- **Lead Architect:** Ark (@AtomKernelOps)
 - **Methodology:** AI Company OS Playbook
 - **Mission:** Transforming human ambition into high-leverage technical reality.
 
